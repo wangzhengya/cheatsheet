@@ -1,8 +1,8 @@
 # FlexBox & Grid CheatSheet【中文】
 
 截图预览：
-![](grid.png)
-![](flexbox.png)
+![]([grid.png](https://cdn.nlark.com/yuque/0/2020/png/312377/1585992479165-ee741425-8cf2-467d-b708-f0021f93c7fe.png))
+![]([flexbox.png](https://cdn.nlark.com/yuque/0/2020/png/312377/1585992481192-5d59b611-53b1-44f3-85e9-3177fbe12530.png))
 
 百度云盘下载地址：
 * 链接:https://pan.baidu.com/s/1A3OAoW-3WX2N6cDa2pOKKQ 提取码:4a5v 复制这段内容后打开百度网盘手机App，操作更方便哦
