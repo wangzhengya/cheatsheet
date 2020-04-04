@@ -9,5 +9,5 @@
 * 链接:https://pan.baidu.com/s/13MWRasaxo_pGd_BTkpE1rA 提取码:3dp8 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 BiliBili教学视频
-![一张图彻底掌握Grid网格布局](https://www.bilibili.com/video/BV1jA411h7sy/)
-![一张图掌握Flexbox弹性盒子布局](https://www.bilibili.com/video/BV1K64y1u7eb/)
+[一张图彻底掌握Grid网格布局](https://www.bilibili.com/video/BV1jA411h7sy/)
+[一张图掌握Flexbox弹性盒子布局](https://www.bilibili.com/video/BV1K64y1u7eb/)
