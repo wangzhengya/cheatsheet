@@ -19,6 +19,6 @@
 
 [一张图掌握Flexbox弹性盒子布局](https://www.bilibili.com/video/BV1K64y1u7eb/)
 
-[一张图掌握Git](https://www.bilibili.com/video/BV1ni4y1t7jK/)
+[一张图掌握BoxModel](https://www.bilibili.com/video/BV1ni4y1t7jK/)
 
 [一张图掌握Git](https://www.bilibili.com/video/BV1AZ4y1x7Do/)
