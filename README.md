@@ -1,13 +1,13 @@
 # Zhengyaing的 CheatSheet，一图读懂系列
 
-## B站有讲解视频
+## [B站有讲解视频](https://space.bilibili.com/503792864) 
 
 ### 截图预览：
 
-![](grid.png)
-![](flexbox.png)
-![](boxmodel.png)
-![](git.png)
+![](image/grid.png)
+![](image/flexbox.png)
+![](image/boxmodel.png)
+![](image/git.png)
 
 ### 国内百度云盘下载地址：
 
