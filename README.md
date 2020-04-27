@@ -27,4 +27,4 @@
 
 [一张图掌握CSS Selector](https://www.bilibili.com/video/BV1kk4y1R78f)
 
-[一张图掌握CSS Selector](https://www.bilibili.com/video/BV1ui4y1b7UW/)
+[一张图掌握Head标签](https://www.bilibili.com/video/BV1ui4y1b7UW/)
