@@ -9,6 +9,7 @@
 ![](image/boxmodel.png)
 ![](image/git.png)
 ![](image/cssselector.png)
+![](image/head.png)
 
 ### 国内百度云盘下载地址：
 
@@ -25,3 +26,5 @@
 [一张图掌握Git](https://www.bilibili.com/video/BV1AZ4y1x7Do/)
 
 [一张图掌握CSS Selector](https://www.bilibili.com/video/BV1kk4y1R78f)
+
+[一张图掌握CSS Selector](https://www.bilibili.com/video/BV1ui4y1b7UW/)
