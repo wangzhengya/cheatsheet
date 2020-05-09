@@ -11,6 +11,7 @@
 ![selector](image/cssselector.png)
 ![head](image/head.png)
 ![markdown](image/markdown.png)
+![正则表达式](image/regex.png)
 
 ### 国内百度云盘下载地址
 
