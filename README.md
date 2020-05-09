@@ -31,4 +31,6 @@
 
 [一张图掌握Head标签](https://www.bilibili.com/video/BV1ui4y1b7UW/)
 
-[一张图掌握Markdown](https://www.bilibili.com/video/BV1sz411z7qd/s)
+[一张图掌握Markdown](https://www.bilibili.com/video/BV1sz411z7qd/)
+
+[一张图掌握Markdown](https://www.bilibili.com/video/BV1jT4y137qt/)
