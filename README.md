@@ -37,6 +37,7 @@
 
 ### 打赏
 
-如果您觉得此项目对您有帮助，请我喝一杯咖啡吧！
+如果您觉得此项目对您有帮助，请我喝一杯咖啡☕️吧！
+
 ![alipay](image/alipay.jpeg)
 ![wechat](image/wechatpay.png)
