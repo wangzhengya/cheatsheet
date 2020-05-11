@@ -2,6 +2,8 @@
 
 ## [B站有讲解视频](https://space.bilibili.com/503792864) 
 
+
+
 ### 截图预览
 
 ![grid](image/grid.png)
@@ -16,6 +18,12 @@
 ### 国内百度云盘下载地址
 
 链接: https://pan.baidu.com/s/1dT1Q0dft7nEY5wPkaM2CCw 提取码: 44mf
+
+### 打赏
+
+如果您觉得此项目对您有帮助，请我喝一杯咖啡吧！
+![alipay](image/alipay.jpeg)
+![wechat](image/wechatpay.png)
 
 ### BiliBili教学视频
 
@@ -33,4 +41,4 @@
 
 [一张图掌握Markdown](https://www.bilibili.com/video/BV1sz411z7qd/)
 
-[一张图掌握Markdown](https://www.bilibili.com/video/BV1jT4y137qt/)
+[一张图掌握正则表达式](https://www.bilibili.com/video/BV1jT4y137qt/)
