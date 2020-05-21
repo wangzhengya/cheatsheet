@@ -13,6 +13,7 @@
 ![markdown](image/markdown.png)
 ![正则表达式](image/regex.png)
 ![console](image/console.png)
+![HTTP基础](image/http.png)
 
 ### 国内百度云盘下载地址
 
@@ -37,6 +38,8 @@
 [一张图掌握正则表达式](https://www.bilibili.com/video/BV1jT4y137qt/)
 
 [一张图掌握console](https://www.bilibili.com/video/BV1oz4y1R7yu/)
+
+[一张图掌握HTTP基础](https://www.bilibili.com/video/BV1Ua4y1e7rC/)
 
 ### 打赏
 
