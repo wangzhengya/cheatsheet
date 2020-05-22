@@ -1,6 +1,10 @@
-# Zhengyaing的 CheatSheet，一图读懂系列
+# 前端Cheat Sheet分享，一张图掌握一个知识点
 
-## [B站有讲解视频](https://space.bilibili.com/503792864)
+欢迎大家在Issues里给我提想学的知识点，也可以给我提一些改进的建议
+
+因为国内github网络问题，最近新增了Gitee的网址：[Gitee](https://gitee.com/zhengyaing/cheatsheet)
+
+## 这个项目本身来源于我的视频分享：[B站讲解视频](https://space.bilibili.com/503792864)
 
 ### 截图预览
 
