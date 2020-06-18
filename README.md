@@ -8,16 +8,7 @@
 
 ### 截图预览
 
-![grid](image/grid.png)
-![flexbox](image/flexbox.png)
-![boxmodel](image/boxmodel.png)
-![git](image/git.png)
-![selector](image/cssselector.png)
-![head](image/head.png)
-![markdown](image/markdown.png)
-![正则表达式](image/regex.png)
-![console](image/console.png)
-![HTTP基础](image/http.png)
+![预览](https://cdn.nlark.com/yuque/0/2020/png/312377/1592459879973-c44d39ac-96dc-4160-849f-4b4e983b5e6a.png)
 
 ### 国内百度云盘下载地址
 
