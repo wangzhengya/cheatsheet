@@ -6,13 +6,15 @@
 
 因为国内github网络问题，最近新增了Gitee的网址：[Gitee](https://gitee.com/zhengyaing/cheatsheet)
 
-## B站视频分享：[B站讲解视频](https://space.bilibili.com/503792864)
+## B站视频分享
+
+[B站讲解视频地址](https://space.bilibili.com/503792864)
 
 ## 截图预览
 
 ![预览](image/preview.png)
 
-## 国内百度云盘下载地址
+## 百度云盘下载
 
 链接: https://pan.baidu.com/s/1dT1Q0dft7nEY5wPkaM2CCw 提取码: 44mf
 
