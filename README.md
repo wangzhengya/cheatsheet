@@ -12,7 +12,7 @@
 
 ## 截图预览
 
-![预览](https://cdn.nlark.com/yuque/0/2020/png/312377/1592459879973-c44d39ac-96dc-4160-849f-4b4e983b5e6a.png)
+![预览](image/preview.png)
 
 ## 百度云盘下载
 
