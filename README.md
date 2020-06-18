@@ -36,9 +36,9 @@
 
 [一张图掌握HTTP基础](https://www.bilibili.com/video/BV1Ua4y1e7rC/)
 
-### 打赏
+### 打赏☕️
 
 如果您觉得此项目对您有帮助，请我喝一杯咖啡☕️吧！
 
-![alipay](image/alipay.jpeg)
-![wechat](image/wechatpay.png)
+![alipay](https://cdn.nlark.com/yuque/0/2020/png/312377/1592460015501-bde725c8-6cf6-421e-b293-8c2c3eceecc3.png)
+![wechat](https://cdn.nlark.com/yuque/0/2020/png/312377/1592460049148-76f3303c-80e2-44ac-b169-be45e3c73fec.png)
