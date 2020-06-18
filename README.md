@@ -1,10 +1,10 @@
 # 前端Cheat Sheet分享
 
-一张图掌握一个知识点
-
-欢迎大家在Issues里给我提想学的知识点，也可以给我提一些改进的建议
+一张图掌握一个知识点:[Github项目地址](https://github.com/wangzhengya/cheatsheet)
 
 因为国内github网络问题，最近新增了Gitee的网址：[Gitee](https://gitee.com/zhengyaing/cheatsheet)
+
+欢迎大家在Issues里给我提想学的知识点，也可以给我提一些改进的建议
 
 ## B站视频分享
 
